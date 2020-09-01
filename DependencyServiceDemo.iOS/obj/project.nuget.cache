@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TIadpf9aA4IAJEdok8JykZ/YwKNi3ZSz+7relMfX9BwTlinqNgxlZME3rH+pHXRbUIs15SQ3SgRNYCmpRShyhg==",
+  "success": true,
+  "projectFilePath": "/Users/edwar/Projects/XAMARIN/DependencyServiceDemo/DependencyServiceDemo.iOS/DependencyServiceDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/edwar/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/edwar/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/edwar/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

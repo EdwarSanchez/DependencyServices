@@ -1,0 +1,14 @@
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/bin/Debug/netstandard2.0/DependencyServiceDemo.deps.json
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/bin/Debug/netstandard2.0/DependencyServiceDemo.dll
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/bin/Debug/netstandard2.0/ref/DependencyServiceDemo.dll
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/bin/Debug/netstandard2.0/DependencyServiceDemo.pdb
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/obj/Debug/netstandard2.0/DependencyServiceDemo.csprojAssemblyReference.cache
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/obj/Debug/netstandard2.0/DependencyServiceDemo.AssemblyInfoInputs.cache
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/obj/Debug/netstandard2.0/DependencyServiceDemo.AssemblyInfo.cs
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/obj/Debug/netstandard2.0/DependencyServiceDemo.csproj.CoreCompileInputs.cache
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/obj/Debug/netstandard2.0/DependencyServiceDemo.dll
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/obj/Debug/netstandard2.0/ref/DependencyServiceDemo.dll
+/Users/edwar/Projects/DependencyServiceDemo/DependencyServiceDemo/obj/Debug/netstandard2.0/DependencyServiceDemo.pdb
